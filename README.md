@@ -1,5 +1,9 @@
 # Exercicio01--TI2
 
+Nome: Luisa Nogueira Campos Silva Souza
+
+Autoavaliação: 5 pontos
+
 Esta tarefa consiste na criação de um programa em Java utilizando o ambiente de desenvolvimento Eclipse, sendo que os alunos devem:
 
 1 - Criar um novo projeto Java.
